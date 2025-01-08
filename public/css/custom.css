@@ -1,0 +1,16 @@
+.margin-0-auto{
+    margin: 0 auto;    
+}
+
+.admin_sidebar hr{
+    border : 1px solid #fff;
+    width: 100%;
+}
+
+.p-10{
+    padding: 10px;
+}
+
+.color-red{
+    color: red;
+}
