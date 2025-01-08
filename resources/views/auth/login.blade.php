@@ -4,7 +4,7 @@
 
 <div class="container d-flex justify-content-center align-items-center min-vh-100">
         <div class="section w-50">
-            <h2>Register</h2>
+            <h2>Login</h2>
             <form id="loginForm">                
                 @csrf
                 <div class="mb-3">
